@@ -13,7 +13,8 @@ The main goal of this project is to predict the breeds of different dogs availab
   * [Contributors](#contributors)
 
 ## Demo
-Link: [https://dogbreedprediction.herokuapp.com/](https://dogbreedprediction.herokuapp.com/)
+Link: [https://dogbreedprediction.herokuapp.com/](https://dogbreedprediction.herokuapp.com)
+
 ![Screenshot](Capture.PNG)
 ![Screenshot](Capture2.PNG)
 
