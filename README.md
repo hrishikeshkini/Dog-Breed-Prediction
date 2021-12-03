@@ -56,7 +56,7 @@ pip install -r requirements.txt
 If pip is not already installed, Follow this [link](https://pip.pypa.io/en/stable/installation/)
 
 ## Deployement on Heroku
-Create a virtual app on Heroku website. You can either connect your github profile or download cli to manually deploy this project.
+Create a virtual app on Heroku Cloud. You can either connect your github profile or download cli to manually deploy this project.
 Follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Bugs & Logs
